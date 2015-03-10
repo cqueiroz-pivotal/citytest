@@ -197,7 +197,7 @@ fi
 
 == Create the Trigger
 
-. Return to the +citytest-unitoken+ project and click +Configure+.
+. Return to the +citytest-uniquetoken+ project and click +Configure+.
 
 . Under +Post Build Actions+ add a post-build action, selecting +Trigger parameterized build on other projects+.
 +
